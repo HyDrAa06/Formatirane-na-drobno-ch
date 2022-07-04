@@ -1,0 +1,7 @@
+D:\david\Solution1\Форматиране на дробно число\bin\Debug\Форматиране на дробно число.exe.config
+D:\david\Solution1\Форматиране на дробно число\bin\Debug\Форматиране на дробно число.exe
+D:\david\Solution1\Форматиране на дробно число\bin\Debug\Форматиране на дробно число.pdb
+D:\david\Solution1\Форматиране на дробно число\obj\Debug\Форматиране на дробно число.csprojAssemblyReference.cache
+D:\david\Solution1\Форматиране на дробно число\obj\Debug\Форматиране на дробно число.csproj.CoreCompileInputs.cache
+D:\david\Solution1\Форматиране на дробно число\obj\Debug\Форматиране на дробно число.exe
+D:\david\Solution1\Форматиране на дробно число\obj\Debug\Форматиране на дробно число.pdb
